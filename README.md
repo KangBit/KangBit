@@ -46,10 +46,10 @@ https://simpleicons.org/
 github-stats-transparent
 https://github.com/rahul-jha98/github-stats-transparent
 -->
-
-![image](https://github.com/KangBit/github-stats-transparent/blob/output/generated/overview.svg)
-![image](https://github.com/KangBit/github-stats-transparent/blob/output/generated/languages.svg)
-
+<p align="center">
+  <img src="https://github.com/KangBit/github-stats-transparent/blob/output/generated/overview.svg">
+  <img src="https://github.com/KangBit/github-stats-transparent/blob/output/generated/languages.svg">
+</p>
 
 
 
