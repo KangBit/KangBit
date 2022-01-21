@@ -41,7 +41,13 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>&nbsp;
-  
+
+<!-- 
+github-stats-transparent
+https://github.com/rahul-jha98/github-stats-transparent
+-->
+![image](https://user-images.githubusercontent.com/52944059/150472776-78ceb865-3f02-4afb-b060-54b1ba4a9126.png)
+![image](https://user-images.githubusercontent.com/52944059/150472830-b52feeca-2509-4ceb-aa33-0510ba560ed7.png)
 
 
 
