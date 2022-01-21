@@ -31,7 +31,7 @@ https://github.com/kyechan99/capsule-render#how-to-use
 Icon Badge
 https://simpleicons.org/
 -->
-<p align="center">🛠 Skills 🛠</p>
+<p align="center" Skills </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>&nbsp;
 <br>
