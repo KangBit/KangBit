@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <!--
 GitHub 꾸미기
 https://velog.io/@kyu0918/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+https://hing9u.tistory.com/78
 -->
 
 <!--
