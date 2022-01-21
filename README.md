@@ -46,8 +46,10 @@ https://simpleicons.org/
 github-stats-transparent
 https://github.com/rahul-jha98/github-stats-transparent
 -->
-![image](https://user-images.githubusercontent.com/52944059/150472776-78ceb865-3f02-4afb-b060-54b1ba4a9126.png)
-![image](https://user-images.githubusercontent.com/52944059/150472830-b52feeca-2509-4ceb-aa33-0510ba560ed7.png)
+
+![image](https://github.com/KangBit/github-stats-transparent/blob/output/generated/overview.svg)
+![image](https://github.com/KangBit/github-stats-transparent/blob/output/generated/languages.svg)
+
 
 
 
