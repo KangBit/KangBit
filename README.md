@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KangBit/KangBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +17,20 @@ Here are some ideas to get you started:
 GitHub 꾸미기
 https://velog.io/@kyu0918/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
+
 <!--
-Icon 
+Capsule-Render 
+https://github.com/kyechan99/capsule-render#how-to-use 
+-->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=150&section=header&text=강빛찬&fontSize=20&fontAlign=95&fontAlignY=60) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=150&section=header)
+
+
+<!--
+Icon Badge
 https://simpleicons.org/
 -->
-
+<p align="center">🛠 Skills 🛠</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>&nbsp;
 <br>
