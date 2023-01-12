@@ -41,6 +41,7 @@ https://hing9u.tistory.com/78
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>&nbsp;
 
