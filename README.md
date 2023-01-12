@@ -47,8 +47,6 @@ https://hing9u.tistory.com/78
   <!--
   -->
   <h3>Links</h3>
-  <a href="https://certain-nest-8e1.notion.site/8a81f8ccb0514060aaefc97a9e19439c">노션 포트폴리오</a>
-  <br>
   <a href="https://velog.io/@kang-bit">블로그 (Velog)</a>
   
   <!-- 
