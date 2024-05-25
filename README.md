@@ -49,6 +49,7 @@ https://hing9u.tistory.com/78
   -->
   <h3>Links</h3>
   <a href="https://velog.io/@kang-bit">블로그 (Velog)</a>
+  <a href="https://kangbit.github.io/">블로그 (BitPage)</a>
   
   <!-- 
   github-stats-transparent
