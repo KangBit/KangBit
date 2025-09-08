@@ -48,9 +48,9 @@ https://hing9u.tistory.com/78
   <!--
   -->
   <h3>Links</h3>
-  <a href="https://velog.io/@kang-bit">블로그 (Velog)</a>
-  
   <a href="https://kangbit.github.io/">블로그 (BitPage)</a>
+
+  <a href="https://www.pip-tools.com/tools">PIP Tools</a>
   
   <!-- 
   github-stats-transparent
